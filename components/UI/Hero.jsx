@@ -15,8 +15,8 @@ const Hero = () => {
           <Col lg="6" md="6">
             <div className={`${classes.hero__content}`}>
               <SectionSubtitle subtitle="Hello" />
-              <h2 className="mt-3 mb-3">I&apos;m Muhibur Rahman</h2>
-              <h5 className="mb-4">Frontend Developer</h5>
+              <h2 className="mt-3 mb-3">I&apos;m Chid</h2>
+              <h5 className="mb-4">React & React Native Developer</h5>
               <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Impedit rem sint ipsa cumque. Atque rem vel iusto impedit omnis
@@ -69,7 +69,7 @@ const Hero = () => {
                 </span>
                 <div className="bg-transparent">
                   <h6>Experience</h6>
-                  <h5 className="mb-0">4 Years</h5>
+                  <h5 className="mb-0">3 Years</h5>
                 </div>
               </div>
             </div>
