@@ -26,7 +26,7 @@ const Hero = () => {
               </p>
               <div className="mt-5">
                 <button className="primary__btn">
-                  <Link href="#">Talk to me</Link>
+                  <Link href="#about">About me</Link>
                 </button>
 
                 <button className="secondary__btn">

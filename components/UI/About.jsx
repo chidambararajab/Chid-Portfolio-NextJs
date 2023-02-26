@@ -18,9 +18,10 @@ const About = () => {
         <Row>
           <Col lg="6" className={`${classes.about__content}`}>
             <SectionSubtitle subtitle="About me" />
-            <h3 className="mt-4">I&apos;m here</h3>
+            <h3 className="mt-4">I&apos;m chid</h3>
             <h3 className="mb-4">
-              to provide assistance for your next project.
+              Senior developer with 3+ years of experience in react and react
+              native.
             </h3>
             <p>
               Hey there! I've been around the programming block for a while, and
@@ -39,14 +40,14 @@ const About = () => {
                   <span className={`${classes.about__icon}`}>
                     <i className="ri-checkbox-circle-line"></i>
                   </span>
-                  Problem Solving
+                  Team Player
                 </h6>
 
                 <h6 className=" d-flex align-items-center gap-2 mt-3 fw-normal">
                   <span className={`${classes.about__icon}`}>
                     <i className="ri-checkbox-circle-line"></i>
                   </span>
-                  Search A Lot
+                  Problem Solving
                 </h6>
               </div>
 
@@ -55,14 +56,14 @@ const About = () => {
                   <span className={`${classes.about__icon}`}>
                     <i className="ri-checkbox-circle-line"></i>
                   </span>
-                  Creative Idea
+                  Being Innovative
                 </h6>
 
                 <h6 className=" d-flex align-items-center gap-2 mt-3 fw-normal">
                   <span className={`${classes.about__icon}`}>
                     <i className="ri-checkbox-circle-line"></i>
                   </span>
-                  High Quality
+                  High Quality in Less Time
                 </h6>
               </div>
             </div>
