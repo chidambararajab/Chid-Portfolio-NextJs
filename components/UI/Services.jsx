@@ -9,6 +9,9 @@ const Services = () => {
     <section id="services">
       <Container>
         <Row>
+          <Row lg="6" md="6" style={{ marginBottom: 30 }}>
+            <SectionSubtitle subtitle="Services" />
+          </Row>
           <Col lg="6" md="6">
             <div className={`${classes.services__container}`}>
               <div>
@@ -25,7 +28,9 @@ const Services = () => {
           </Col>
 
           <Col lg="6" md="6" className={`${classes.service__title}`}>
-            <SectionSubtitle subtitle="What I do" />
+            <Row lg="6" md="6" style={{ marginBottom: 30 }}>
+              <SectionSubtitle subtitle="What I do" />
+            </Row>
             <h3 className="mb-0 mt-4">Better Design,</h3>
             <h3 className="mb-4">Better Experience</h3>
             <p>
