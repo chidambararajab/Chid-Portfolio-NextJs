@@ -14,17 +14,19 @@ const Hero = () => {
           {/* ========== hero content ============= */}
           <Col lg="6" md="6">
             <div className={`${classes.hero__content}`}>
-              <SectionSubtitle subtitle="Hello" />
-              <h2 className="mt-3 mb-3">I&apos;m Chid</h2>
-              <h5 className="mb-4">React & React Native Developer</h5>
+              <SectionSubtitle subtitle="Hi, I'm Chid" />
+              <h2 className="mt-3 mb-3">Chidambararaja Boominathan</h2>
+              <h5 className="mb-4">Senior React & React Native Developer</h5>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Impedit rem sint ipsa cumque. Atque rem vel iusto impedit omnis
-                quos!
+                As a senior developer with over three years of experience in
+                React and React Native, I have worked on numerous projects
+                encompassing a diverse range of applications including
+                Cryptocurrency Wallet, Admin Panel, Social Applications,
+                E-commerce platforms, and many others.
               </p>
               <div className="mt-5">
                 <button className="primary__btn">
-                  <Link href="#">Hire me</Link>
+                  <Link href="#">Talk to me</Link>
                 </button>
 
                 <button className="secondary__btn">
@@ -69,7 +71,7 @@ const Hero = () => {
                 </span>
                 <div className="bg-transparent">
                   <h6>Experience</h6>
-                  <h5 className="mb-0">3 Years</h5>
+                  <h6 className="mb-0">3+ Years</h6>
                 </div>
               </div>
             </div>
