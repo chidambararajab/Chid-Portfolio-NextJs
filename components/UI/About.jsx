@@ -19,13 +19,18 @@ const About = () => {
           <Col lg="6" className={`${classes.about__content}`}>
             <SectionSubtitle subtitle="About me" />
             <h3 className="mt-4">I&apos;m here</h3>
-            <h3 className="mb-4">to help your next project</h3>
+            <h3 className="mb-4">
+              to provide assistance for your next project.
+            </h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt
-              neque asperiores temporibus quo saepe odio, esse labore libero
-              obcaecati quidem explicabo blanditiis deleniti ex vitae ratione
-              ullam fugiat dicta eum sint officiis porro illum quia. Error quam
-              cum excepturi beatae.
+              Hey there! I've been around the programming block for a while, and
+              I know what it takes to get a project over the finish line. I'm a
+              natural-born leader, and I've got the skills to keep everyone on
+              track and moving forward. When it comes to delivering great
+              applications, I don't mess around. I'm all about making sure the
+              user experience is top-notch, and my clients and users always
+              appreciate that. You can count on me to get the job done and
+              exceed your expectations!
             </p>
 
             <div className=" d-flex align-items-center gap-5">
