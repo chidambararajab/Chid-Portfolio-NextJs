@@ -57,10 +57,7 @@ const Footer = () => {
           {/* ========= footer bottom ========= */}
           <Col lg="12">
             <div className={`${classes.footer__copyright}`}>
-              <p>
-                `&copy;` Copyright {year} - Developed by Chid. All right
-                reserved.
-              </p>
+              <p>Copyright {year} - Developed by Chid. All right reserved.</p>
             </div>
           </Col>
         </Row>
