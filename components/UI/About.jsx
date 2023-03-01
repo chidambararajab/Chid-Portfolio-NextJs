@@ -18,20 +18,20 @@ const About = () => {
         <Row>
           <Col lg="6" className={`${classes.about__content}`}>
             <SectionSubtitle subtitle="About me" />
-            <h3 className="mt-4">I'm chid</h3>
+            <h3 className="mt-4">I am chid</h3>
             <h3 className="mb-4">
               Senior developer with 3+ years of experience in react and react
               native.
             </h3>
             <p>
-              Hey there! I've been around the programming block for a while, and
-              I know what it takes to get a project over the finish line. I'm a
-              natural-born leader, and I've got the skills to keep everyone on
-              track and moving forward. When it comes to delivering great
-              applications, I don't mess around. I'm all about making sure the
-              user experience is top-notch, and my clients and users always
-              appreciate that. You can count on me to get the job done and
-              exceed your expectations!
+              Hey there! I&apos;ve been around the programming block for a
+              while, and I know what it takes to get a project over the finish
+              line. I&apos;m a natural-born leader, and I&apos;ve got the skills
+              to keep everyone on track and moving forward. When it comes to
+              delivering great applications, I don&apos;t mess around. I&apos;m
+              all about making sure the user experience is top-notch, and my
+              clients and users always appreciate that. You can count on me to
+              get the job done and exceed your expectations!
             </p>
 
             <div className=" d-flex align-items-center gap-5">

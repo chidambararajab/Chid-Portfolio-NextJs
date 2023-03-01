@@ -14,15 +14,15 @@ const Contact = () => {
             <SectionSubtitle subtitle="Contact me" />
             <h3 className="mt-4 mb-4">Contact with me</h3>
             <p>
-              Hey there! I'm really excited about the opportunity to join your
-              company and be a part of your team. I'm confident that I've got
-              the skills and experience you're looking for, and I'm committed to
-              making a positive impact from day one. Let's start this journey
-              together and see where it takes us!
-              {/* Hey there! I'm here to lend a hand with your next application
-              development project. I've got the skills and experience to help
-              you get the job done right, and I'm committed to delivering
-              results that you can trust. Let's work together to make your next
+              Hey there! I&apos;m really excited about the opportunity to join
+              your company and be a part of your team. I&apos;m confident that
+              I&apos;ve got the skills and experience you&apos;re looking for,
+              and I&apos;m committed to making a positive impact from day one.
+              Let&apos;s start this journey together and see where it takes us!
+              {/* Hey there! I&apos;m here to lend a hand with your next application
+              development project. I&apos;ve got the skills and experience to help
+              you get the job done right, and I&apos;m committed to delivering
+              results that you can trust. Let&apos;s work together to make your next
               project a success! Looking forward to start the journy on your
               company. */}
             </p>
