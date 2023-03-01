@@ -18,7 +18,7 @@ const About = () => {
         <Row>
           <Col lg="6" className={`${classes.about__content}`}>
             <SectionSubtitle subtitle="About me" />
-            <h3 className="mt-4">I&apos;m chid</h3>
+            <h3 className="mt-4">I`&apos;`m chid</h3>
             <h3 className="mb-4">
               Senior developer with 3+ years of experience in react and react
               native.
