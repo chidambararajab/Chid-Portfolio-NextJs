@@ -104,3 +104,8 @@ footer {
     border: none;
   }
 }
+
+.custom_text {
+  color: #01d293 !important;
+  text-decoration: underline;
+}

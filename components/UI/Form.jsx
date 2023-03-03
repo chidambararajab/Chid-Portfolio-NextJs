@@ -2,8 +2,12 @@ import React from "react";
 import classes from "../../styles/form.module.css";
 
 const Form = () => {
-  const submitHandler = () => {
+  const submitHandler = (e) => {
     e.preventDefault();
+
+    alert(
+      `Hi ${e.target[0].value}, Thank you for visiting my website. At present, the email service is disabled. Please feel free to contact me at chidambararaja97@gmail.com.`
+    );
   };
   return (
     <form className={`${classes.form}`} onSubmit={submitHandler}>

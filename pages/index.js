@@ -11,9 +11,9 @@ export default function Home() {
     <Fragment>
       <Hero />
       <About />
-      <Services />
-      <Portfolio />
-      <Testimonial />
+      {/* <Services /> */}
+      {/* <Portfolio /> */}
+      {/* <Testimonial /> */}
       <Contact />
     </Fragment>
   );

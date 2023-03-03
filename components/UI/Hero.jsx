@@ -29,9 +29,15 @@ const Hero = () => {
                   <Link href="#about">About me</Link>
                 </button>
 
-                <button className="secondary__btn">
-                  <Link href="#">Download CV</Link>
-                </button>
+                <a
+                  target="_blank"
+                  href="https://drive.google.com/file/d/1_-4Qe0exh2E2MjvqbnTzFgcf7rsTYDyy/view?usp=sharing"
+                  rel="noopener noreferrer"
+                >
+                  <button className="secondary__btn">
+                    <p className="custom_text">Download CV</p>
+                  </button>
+                </a>
               </div>
             </div>
           </Col>

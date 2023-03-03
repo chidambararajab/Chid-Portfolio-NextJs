@@ -69,13 +69,26 @@ const About = () => {
             </div>
 
             <div className="mt-5">
-              <button className="primary__btn">
+              <button
+                className="primary__btn"
+                onClick={() =>
+                  alert(
+                    "I am excited to announce that my portfolio section, featuring all of the projects I have worked on, will be available in just four days. Stay tuned for an overview of my experience and skills!"
+                  )
+                }
+              >
                 <Link href="#portfolio">My Portfolio</Link>
               </button>
 
-              <button className="secondary__btn">
-                <Link href="#">Download CV</Link>
-              </button>
+              <a
+                target="_blank"
+                href="https://drive.google.com/file/d/1_-4Qe0exh2E2MjvqbnTzFgcf7rsTYDyy/view?usp=sharing"
+                rel="noopener noreferrer"
+              >
+                <button className="secondary__btn">
+                  <p className="custom_text">Download CV</p>
+                </button>
+              </a>
             </div>
           </Col>
 
